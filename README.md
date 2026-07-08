@@ -15,15 +15,10 @@ A helper app to integrate Steam games from Cocoon into GameNative seamlessly. Th
 4.  **GameNative Configuration**:
     *   Open GameNative.
     *   Enable **'Frontend Sync'**.
-    *   Point the sync directory to the same folder used in Cocoon and this app.
+    *   Point the sync directory to the **exact same folder** used as the ROM path in Cocoon and granted in this app.
 
-## Installation (Obtanium)
+## Installation (Obtainium)
 
-You can keep this app updated using [Obtanium](https://github.com/ImranRyz/Obtanium). 
+You can keep this app updated using [Obtainium](https://github.com/ImranR98/Obtainium). 
 
-### Option 1: Direct Link
-Add the following URL to Obtanium to track releases:
-`https://github.com/jonathanmarston/GameNativeSteamLauncher/releases/latest/download/app-release.apk`
-
-### Option 2: JSON Import
-Download the [obtanium.json](obtanium.json) file and import it into Obtanium.
+[Add to Obtainium!](https://obtainium.imranr.dev/add?url=https://github.com/jonathanmarston/GameNativeSteamLauncher)
