@@ -17,8 +17,6 @@ A helper app to integrate Steam games from Cocoon into GameNative seamlessly. Th
     *   Enable **'Frontend Sync'**.
     *   Point the sync directory to the **exact same folder** used as the ROM path in Cocoon and granted in this app.
 
-## Installation (Obtainium)
+## Installation
 
-You can keep this app updated using [Obtainium](https://github.com/ImranR98/Obtainium). 
-
-[Add to Obtainium!](https://obtainium.imranr.dev/add?url=https://github.com/jonathanmarston/GameNativeSteamLauncher)
+Download the latest version here: [Download APK](https://github.com/jonathanmarston/GameNativeSteamLauncher/releases/latest/download/app-release.apk)
