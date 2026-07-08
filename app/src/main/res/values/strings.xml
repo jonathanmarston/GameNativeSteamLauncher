@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GameNative Steam Launcher</string>
+    <string name="instructions">Instructions:\n1. Click \'Export Platform JSON\' and save the file.\n2. Import that file as a custom platform inside Cocoon.\n3. Grant folder permission below for the same folder as the ROM path in Cocoon.\n4. In GameNative, enable \'Frontend Sync\' and point it to that same folder.</string>
+</resources>
